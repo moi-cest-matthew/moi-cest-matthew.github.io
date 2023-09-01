@@ -5,7 +5,7 @@ title: "I'll Have A Beige-Colored Cup of JavaScript With a Shot of Vanilla and a
 date: 2023-08-31
 published: true
 labels:
-  - JavaScript, CC-BY-SA
+  - JavaScript
 ---
 *The following text is licensed under a CC-BY-SA 4.0 Global License. You may share it freely, even for economical purposes, so long as you provide me credit and a link to the license.*
 
