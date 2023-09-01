@@ -1,4 +1,12 @@
-# I'll Have A Beige-Colored Cup of JavaScript With a Shot of Vanilla and a Side of Plain White Toast
+---
+layout: essay
+type: essay
+title: "I'll Have A Beige-Colored Cup of JavaScript With a Shot of Vanilla and a Side of Plain White Toast"
+date: 2023-08-31
+published: true
+labels:
+  - JavaScript, CC-BY-SA
+---
 *The following text is licensed under a CC-BY-SA 4.0 Global License. You may share it freely, even for economical purposes, so long as you provide me credit and a link to the license.*
 
 I did not code my first "Hello, World!" program last night. Over 9 or so years, I have worked with a variety of languages, from the blazing speed yet unforgiving precision of C++, to the safety of Java and Python, even putting up with ARM Assembly and self-studying a bit of Rust, which is new enough in 2023 that it is not currently taught at UH Mānoa.
