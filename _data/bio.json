@@ -2,9 +2,9 @@
   "basics": {
     "name": "Matthew Fallah",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/moi-cest-matthew.png",
     "email": "msfallah@hawaii.edu",
-    "phone": "858-243-3772",
+    "phone": "+1 858-243-3772",
     "website": "https://moi-cest-matthew.github.io",
     "summary": "I am minoring in Computer Science and majoring in Japanese at the University of Hawai'i at Mānoa. I expect to graduate in Spring 2025, at a most pessimistic estimate.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawai'i" },
@@ -14,56 +14,35 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Game Development" },
+    { "name": "Foreign Languages" },
+    { "name": "Game Design" },
+    { "name": "i18n/L10n" },
+    { "name": "2D Graphics" },
+    { "name": "Culture Libre" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Computer Languages and Frameworks",
+      "keywords": [ "Python", "C(++)", "Java", "Javascript", "Assembly", "Rust (a little)" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
-    }
+      "keywords": [ "Pop!_OS", "Windows", "Git/GitHub"]
+    },
+    {
+      "name": "Human Languages",
+      "keywords": [ "English (Native)", "Spanish (very fluent)", "Italian (fluent)", "Japanese (fluent)", "Québec French (fluent)", "Dutch (basic)" ]
+    },
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Hawai'i at Mānoa, Honolulu, HI",
+      "area": "Japanese and Computer Science (expected Spring, 2025)",
+      "studyType": "B.A. and Minor, respectively",
+      "startDate": "2022-08-22",
       "endDate": "Present",
       "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
