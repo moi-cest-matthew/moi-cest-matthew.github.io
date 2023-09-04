@@ -28,11 +28,11 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Pop!_OS", "Windows", "Git/GitHub"]
+      "keywords": [ "Pop!_OS", "Windows", "Git/GitHub", "Fish shell", "Bash shell"]
     },
     {
       "name": "Human Languages",
-      "keywords": [ "English (Native)", "Spanish (very fluent)", "Italian (fluent)", "Japanese (fluent)", "Québec French (fluent)", "Dutch (basic)" ]
+      "keywords": [ "English (Native)", "Spanish (very fluent)", "Italian (fluent)", "Japanese (fluent)", "Québec French (fluent)", "Dutch (basic), Portuguese (passive understanding)"]
     },
   ],
   "education": [
@@ -41,37 +41,44 @@
       "area": "Japanese and Computer Science (expected Spring, 2025)",
       "studyType": "B.A. and Minor, respectively",
       "startDate": "2022-08-22",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "endDate": "Present"
+    },
+    {
+      "institution": "Palomar Community College, San Marcos, CA",
+      "area": "Japanese and Computer Science",
+      "studyType": "General Studies",
+      "startDate": "2019",
+      "endDate": "2022"
+    },
+    {
+      "institution": "San Diego Mesa College, San Diego, CA",
+      "area": "Japanese and Computer Science",
+      "studyType": "General Studies",
+      "startDate": "2018",
+      "endDate": "2019"
+    },
+    {
+      "institution": "DigiPen Institute of Technology, Redmond, WA",
+      "area": "Japanese and Computer Science",
+      "studyType": "General Studies",
+      "startDate": "2017",
+      "endDate": "2018"
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "CTI Accelerate",
+      "website": "https://computingtalentinitiative.org/accelerate/",
+      "position": "Trainee",
+      "startDate": "Dec. 2020",
+      "endDate": "Sep. 2022",
+      "summary": "Improved hard and soft skills beyond what community college provided",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Learned more of Python than what community college was teaching",
+        "Learned more about networking",
+        "Left only after moving to Hawaii"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
