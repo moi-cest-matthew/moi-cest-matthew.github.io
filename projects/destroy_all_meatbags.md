@@ -10,7 +10,8 @@ labels:
   - Game Dev
 summary: "A text adventure game that I and a classmate developed for all the way back at DigiPen."
 ---
-![DigiPen logo](img/meatbags/DigiPen_web_logo.png)
+![DigiPen logo](/img/meatbags/DigiPen_web_logo.png)
+
 
 DESTROY. ALL. MEATBAGS. was a text adventure game a classmate and I developed for our first project class at DigiPen Institute of Technology, a private school in Redmond, Washington that has ties to multiple game industry titans nearby. The premise was that you controlled a robot out to destroy different "meatbags" (i.e. literal bags of meat, like one would buy at Safeway) around the school. While the game is probably lost, DigiPen would have owned the copyright anyways, unfortunately.
 
