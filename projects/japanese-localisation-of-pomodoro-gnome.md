@@ -4,7 +4,7 @@ type: project
 image: 
 title: (In Progress) Japanese Localisation of Pomodoro GNOME
 date: 2023
-published: true
+published: false
 labels:
   - Japanese
   - GNOME
