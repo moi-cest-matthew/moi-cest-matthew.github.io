@@ -20,4 +20,4 @@ The game will be coded in the Unity engine (not to be confused with the Ubuntu d
 Fortunately, I was able to provide ideas during the initial development, coming up with the title, the premiss, and the musical theming.
 
 
-A link to the game will appear here when it is finished.
+[Click here to play and download the game.](https://uhmanoagamedev.itch.io/death-and-saxes)
