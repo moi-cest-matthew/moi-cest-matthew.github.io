@@ -3,6 +3,7 @@ layout: project
 type: project
 image: 
 title: Death and Saxes
+image: ../img/deathandsaxesicon.png
 date: 2023
 published: true
 labels:
@@ -12,6 +13,8 @@ labels:
   - Unity (Game engine)
 summary: "As part of the Game Jam at ACMānoa's Game Dev club, I am contributed to a music themed platforming game."
 ---
+
+<img src="/img/deathandsaxes2.jpg">
 
 *Death and Saxes* is a platforming game I contributed to as part of a month-long Game Jam as part of UH Mānoa's Game Dev club. The theme was "invisible platforms," and the game idea we came up with is that the player is a melodica player whose notes can reveal or shatter invisible platforms. The antagonist is a saxaboom player named Jack Blanc, who has turned the main character into a melodica and then stolen some of their keys. As the player gets more of their melodica's keys back, they will be able to interact with more platforms.
 
