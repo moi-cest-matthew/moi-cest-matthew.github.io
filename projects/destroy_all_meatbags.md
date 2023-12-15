@@ -4,7 +4,7 @@ type: project
 title: "DESTROY. ALL. MEATBAGS."
 date: 2017
 published: true
-image:  img/DigiPen_Mascot.png
+image: ../img/meatbags/DigiPen_Mascot.png
 labels:
   - C++
   - DigiPen
