@@ -13,6 +13,7 @@ labels:
   - React
 summary: "I helped mock up a website to make finding UH internships easier, whether for students or employees."
 ---
+<img width="700px" class="rounded float-start pe-4" src="/img/opfinderscreenshot1.png">
 
 As part of the final project in my ICS 314 class, I worked together with three other people to create Opportunity Finder, a mockup of a website that aims to make it easier for computing students in Hawaii to find internships, as well as for companies to find the best students for said internships. 
 
