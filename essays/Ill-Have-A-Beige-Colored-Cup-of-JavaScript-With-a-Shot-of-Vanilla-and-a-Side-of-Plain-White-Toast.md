@@ -9,6 +9,8 @@ labels:
 ---
 *The following text is licensed under a CC-BY-SA 4.0 Global License. You may share it freely, even for economical purposes, so long as you provide me credit and a link to the license.*
 
+<img width="400px" class="rounded float-start pe-4" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/JavaScript_unofficial_logo.svg">
+
 I did not code my first "Hello, World!" program last night. Over 9 or so years, I have worked with a variety of languages, from the blazing speed yet unforgiving precision of C++, to the safety of Java and Python, even putting up with ARM Assembly and self-studying a bit of Rust, which is new enough in 2023 that it is not currently taught at UH Mānoa.
 
 That may or may not be their loss.
