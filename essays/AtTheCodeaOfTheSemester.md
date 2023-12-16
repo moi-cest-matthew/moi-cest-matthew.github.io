@@ -12,6 +12,8 @@ labels:
 ---
 *The following text is licensed under a CC-BY-SA 4.0 Global License. You may share it freely, even for economical purposes, so long as you provide me credit and a link to the license.*
 
+<img width="500px" class="rounded float-start pe-4" src="https://4.bp.blogspot.com/-zf-SSpmuVQw/WKbKmBRPEUI/AAAAAAABB1w/eGRBfCvcHegenLYm1RfEX3WGqYqZeQ_AQCLcB/s800/karoushi_hakui_man.png">
+
 December is the time people do many things; reflecting on what they did throughout the year, making plans for both the holidays and the coming year, and cheating on their spouses. Since I am not married, I would like to focus on the first of these things.
 
 As with any class, a given subject is divided in many smaller subjects, and three of the ones that resonated with me the most were open source, development environments, and managing a project with Agile.
