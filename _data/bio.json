@@ -19,7 +19,7 @@
     { "name": "Game Design" },
     { "name": "i18n/L10n" },
     { "name": "2D Graphics" },
-    { "name": "Culture Libre" }
+    { "name": "Free Culture" }
   ],
   "skills": [
     {
@@ -70,8 +70,8 @@
       "organization": "CTI Accelerate",
       "website": "https://computingtalentinitiative.org/accelerate/",
       "position": "Trainee",
-      "startDate": "December 2020",
-      "endDate": "September 2022",
+      "startDate": "2020",
+      "endDate": "2022",
       "summary": "Improved hard and soft skills beyond what community college provided",
       "highlights": [
         "Learned more of Python than what community college was teaching",
