@@ -12,6 +12,8 @@ labels:
 
 *The following text is licensed under a CC-BY-SA 4.0 Global License. You may share it freely, even for economical purposes, so long as you provide me credit and a link to the license.*
 
+<img width="500px" class="rounded float-start pe-4" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Het_verongelukte_KLM-toestel_De_Rijn%2C_Bestanddeelnr_929-1005_-_cropped.jpg">
+
 On March 27, 1977, a Dutch plane attempted taking off in Tenerife while and American one was still on the runway. The resulting collision, which killed 583 people (everyone except 61 survivors on the U.S. plane), is the deadliest in aviation history. One of the factors that lead to the tragedy was a series of failures in communication: the usage of ambiguous phrases such as "at takeoff" and "OK" (which may or may not mean actually having clearance to take off) and nobody bothering to clarify anything after the Dutch and American crews sending simultaneous radio messages caused interference. Nowadays, there is a list of standard phrases crews must use, all of which are in English.
 
 My "Hello, World!" program should follow suit, whether I like it or not.
