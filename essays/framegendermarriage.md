@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Frame-Gender Marriage: Why 'AI' Think It's Just a Matter of Time to Understand Frameworks"
 date: 2023-10-05
-published: true
+published: false
 labels:
   - Bootstrap 5
   - HTML
