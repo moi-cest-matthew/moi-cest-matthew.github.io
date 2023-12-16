@@ -16,6 +16,8 @@ Humanity has once again eaten a forbidden fruit: various types of AI have made t
 
 ChatGPT is a language learning model, which means its goal is to process language. Not only does this apply to human languages such as Dutch and Japanese, but also programming languages as well. This meant being able to get very easy help in the language of my choice, which is useful when you are learning both Japanese and JavaScript at the same time.
 
+<img width="400px" class="rounded float-start pe-4" src="https://1.bp.blogspot.com/-fyYoL91_tQo/Wp0Nn-VLocI/AAAAAAABKiI/3J2ywEvlbwIhjFNsmF8qpluPOg2it_HAQCLcBGAs/s800/ai_kanabou_buki.png">
+
 ## Personal Experience with AI
 Just as it has been for other people, ChatGPT has given me both great and terrible results. While it cannot work miracles, it has managed to save me from situations that my ADHD would have otherwise exacerbated.
 
@@ -80,7 +82,7 @@ As the name explicitly states, AI Proteins uses AI to simulate human proteins. T
 
 Of course, such a new advancement with a new type of technology does come with challenges and risks:
 
-> We don't fully understand why proteins like to adopt these particular shapes, but we see bonds often have these angles for some reason, so we’d think, “let's just make an energy term that says that they should be in those angles.” And that was all done primarily on CPU and a combination of poorly understood physics and poorly understood observations mixed together. It wasn’t the most accurate. 
+> "We don't fully understand why proteins like to adopt these particular shapes, but we see bonds often have these angles for some reason, so we’d think, 'let's just make an energy term that says that they should be in those angles.' And that was all done primarily on CPU and a combination of poorly understood physics and poorly understood observations mixed together. It wasn’t the most accurate. "
 
 ## Challenges and Opportunities
 *The following paragraphs in this section were generated using ChatGPT, then edited by me. Edits are in square brackets.*
@@ -108,7 +110,7 @@ Another issue is real ethical problems. When AI makes coding easier for everyone
 ## Conclusion
 *The intrigue of AI speaks for itself... quite literally; I have asked the AI to conclude my essay for me to perfectly illustrate how it is such a double-edged sword.*
 
->The integration of AI, especially ChatGPT, in my software engineering course has been a journey marked by both challenges and opportunities. From time-sensitive assignments to the final project, AI has played a multifaceted role in shaping my learning experience. Its impact on my ability to comprehend, generate, and apply code has been significant, given the unique context of living with ADHD.
+>"The integration of AI, especially ChatGPT, in my software engineering course has been a journey marked by both challenges and opportunities. From time-sensitive assignments to the final project, AI has played a multifaceted role in shaping my learning experience. Its impact on my ability to comprehend, generate, and apply code has been significant, given the unique context of living with ADHD.
 > 
 >While AI, particularly ChatGPT, has proven to be a valuable asset, it's essential to recognize its limitations. Overreliance on AI can risk becoming a crutch, hindering the development of critical problem-solving skills. The inability to comprehensively assess code quality is another challenge, emphasizing the need for a nuanced understanding that AI currently lacks.
 > 
@@ -122,5 +124,5 @@ Another issue is real ethical problems. When AI makes coding easier for everyone
 > 
 >As we navigate the future considerations, challenges like copyright issues and ethical concerns must be addressed proactively. Education on AI ethics and a clear understanding of copyright laws, especially in a globalized context, become essential components of the curriculum.
 > 
->In conclusion, the AI integration in software engineering education is a transformative journey, offering a spectrum of benefits and challenges. A thoughtful and strategic approach, keeping human skill development at its core, will pave the way for an optimized and effective integration of AI in future courses.
+>In conclusion, the AI integration in software engineering education is a transformative journey, offering a spectrum of benefits and challenges. A thoughtful and strategic approach, keeping human skill development at its core, will pave the way for an optimized and effective integration of AI in future courses."
 
