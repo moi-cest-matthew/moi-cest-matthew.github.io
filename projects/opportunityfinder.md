@@ -3,6 +3,7 @@ layout: project
 type: project
 image: 
 title: Opportunity Finder
+image: ../img/OP1.jpeg
 date: 2023
 published: True
 labels:
@@ -12,6 +13,7 @@ labels:
   - React
 summary: "I helped mock up a website to make finding UH internships easier, whether for students or employees."
 ---
+
 As part of the final project in my ICS 314 class, I worked together with three other people to create Opportunity Finder, a mockup of a website that aims to make it easier for computing students in Hawaii to find internships, as well as for companies to find the best students for said internships. 
 
 The problem it aims to solve is the lack of easily accessible information that students and companies have about each other. They both also have different expectations that they need to reconcile and reality-check. When this gap is not closed, finding internships appears harder than it actually is for students and providing them becomes harder for companies.
