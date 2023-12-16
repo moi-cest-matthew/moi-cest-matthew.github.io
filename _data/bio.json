@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "Matthew Fallah",
+    "label": "Student",
+    "picture": "https://github.com/moi-cest-matthew.png",
+    "email": "msfallah@hawaii.edu",
+    "phone": "+1 858-243-3772",
+    "website": "https://moi-cest-matthew.github.io",
+    "summary": "I am minoring in Computer Science and majoring in Japanese at the University of Hawai'i at Mānoa. I expect to graduate in Spring 2025, at a most pessimistic estimate.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawai'i" },
+    "profiles": [
+      { "network": "github", "username": "moi-cest-matthew", "url": "http://github.com/moi-cest-matthew" },
+      { "network": "linkedin", "username": "matthew-fallah", "url": "http://linkedin.com/in/matthew-fallah" }
+    ]
+  },
+  "interests": [
+    { "name": "Game Development" },
+    { "name": "Foreign Languages" },
+    { "name": "Game Design" },
+    { "name": "i18n/L10n" },
+    { "name": "2D Graphics" },
+    { "name": "Free Culture" }
+  ],
+  "skills": [
+    {
+      "name": "Computer Languages and Frameworks",
+      "keywords": [ "Python", "C(++)", "Java", "Javascript", "Assembly", "Rust (a little)" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Pop!_OS", "Windows", "Git/GitHub", "Fish shell", "Bash shell"]
+    },
+    {
+      "name": "Human Languages",
+      "keywords": [ "English (Native)", "Spanish (very fluent)", "Italian (fluent)", "Japanese (fluent)", "Québec French (fluent)", "Dutch (basic), Portuguese (passive understanding)"]
+    },
+  ],
+  "education": [
+    {
+      "institution": "University of Hawai'i at Mānoa, Honolulu, HI",
+      "area": "Japanese and Computer Science (expected Spring, 2025)",
+      "studyType": "B.A. and Minor, respectively",
+      "startDate": "2022-08-22",
+      "endDate": "Present"
+    },
+    {
+      "institution": "Palomar Community College, San Marcos, CA",
+      "area": "Japanese and Computer Science",
+      "studyType": "General Studies",
+      "startDate": "2019",
+      "endDate": "2022"
+    },
+    {
+      "institution": "San Diego Mesa College, San Diego, CA",
+      "area": "Japanese and Computer Science",
+      "studyType": "General Studies",
+      "startDate": "2018",
+      "endDate": "2019"
+    },
+    {
+      "institution": "DigiPen Institute of Technology, Redmond, WA",
+      "area": "Japanese and Computer Science",
+      "studyType": "General Studies",
+      "startDate": "2017",
+      "endDate": "2018"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CTI Accelerate",
+      "website": "https://computingtalentinitiative.org/accelerate/",
+      "position": "Trainee",
+      "startDate": "2020",
+      "endDate": "2022",
+      "summary": "Improved hard and soft skills beyond what community college provided",
+      "highlights": [
+        "Learned more of Python than what community college was teaching",
+        "Learned more about networking",
+        "Left only after moving to Hawaii"
+      ]
+    },
+  ],
+  "awards": [
+    {
+      "title": "Seal of Biliteracy in Spanish",
+      "date": "2017",
+      "awarder": "State of California",
+      "summary": "Seal that is placed on the high school diploma of those who graduate having shown excellence in English and another language."
+    },
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
